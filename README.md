@@ -1,6 +1,6 @@
 # 👨‍💻 Welcome to My README!
 
-Hi! I'm a **Fronten developer** passionate about **modern technologies**. I'm currently learning and working with **React**, and I love diving deeper into everything related to programming. Here's a bit about me:
+Hi! I'm a **Frontend developer** passionate about **modern technologies**. I'm currently learning and working with **React**, and I love diving deeper into everything related to programming. Here's a bit about me:
 
 ---
 
