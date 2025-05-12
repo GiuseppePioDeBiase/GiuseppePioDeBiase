@@ -22,6 +22,7 @@ I'm part of an amazing team called Aletheia, where I work closely with other dev
 I love building useful and innovative applications. Some of my recent projects include:
 
 - **[Animal Society]**: .
+- - **[AgriTech]**: .
 
 ---
 
