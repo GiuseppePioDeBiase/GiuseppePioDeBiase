@@ -26,7 +26,7 @@ I love building useful and innovative applications. Some of my recent projects i
 
 ---
 
-## 🦆 FOMO Duck Animation
+## 🦆 
 
 Here’s a fun animation to brighten up your day! 🎉
 
